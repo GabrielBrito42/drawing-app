@@ -1,6 +1,6 @@
 # DrawningApp
 
-![drawingApp](https://user-images.githubusercontent.com/32067188/112863160-f11d9100-908c-11eb-9854-07bc16550ef0.PNG)
+![drawingApp](https://user-images.githubusercontent.com/32067188/112865346-127f7c80-908f-11eb-915e-a8aed19ad5d1.PNG)
 
 ![Capturar](https://user-images.githubusercontent.com/32067188/112865183-e663fb80-908e-11eb-91f8-b25e678e375d.PNG)
 
