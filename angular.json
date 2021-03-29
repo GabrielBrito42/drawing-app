@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "drawning-app"
+  "defaultProject": "drawning-app",
+  "cli": {
+    "analytics": "a371f90c-279e-4cb6-94b7-ed85b46a57f1"
+  }
 }
